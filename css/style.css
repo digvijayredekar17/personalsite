@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+}
+.upper{
+    
+    background-color: #e4f9f5;
+    padding-bottom: 200px;
+
+    
+    
+}
+
+.cloudone{
+    position: absolute;
+    top:50px;
+    right:300px;
+    
+}
+.cloudtwo{
+    position:absolute;
+    top:300px;
+    left:350px;
+    
+
+}
+
+h1{
+    padding-top: 150px;
+    text-align: center;
+    color: #66BFBF;font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+}
+.centre{
+    text-align: center;
+    color: #66BFBF;
+    font-size: 2rem;
+}
+.mountain{
+    display: block; 
+    margin: 100px auto 0 auto;
+
+}
