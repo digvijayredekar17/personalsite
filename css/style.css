@@ -128,6 +128,15 @@ footer{
     
     border-radius: 50px;
 }
+footer p{
+    color: white;
+    
+}
+footer p{
+    float: right;
+    padding-top: 20px;
+    padding-right: 20px;
+}
 .footerbox a:hover{
     
     background-color: #db6400;
