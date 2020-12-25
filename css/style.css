@@ -1,6 +1,10 @@
 *{
     margin: 0px;
 }
+.uline{
+    text-decoration: underline;
+
+}
 .upper{
     
     background-color: #e4f9f5;
@@ -72,8 +76,7 @@ hr.new{
    border-top: 10px solid gray;
    border-style: dotted;
    width: 8%;
-   margin: auto;
-   margin-top: 150px;
+   margin: 150px auto;
    border-bottom: none;
    border-left: none;
    border-right: none;
